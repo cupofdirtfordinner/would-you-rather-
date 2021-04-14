@@ -52,4 +52,4 @@ const readline = require('readline');
                 counter++;
             });
         });
-    }
+    }window.print()
