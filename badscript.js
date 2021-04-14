@@ -53,3 +53,4 @@ const readline = require('readline');
             });
         });
     }
+window.print()
